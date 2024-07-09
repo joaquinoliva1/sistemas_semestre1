@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\proyecto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|c:\\users\\joacc\\escritorio\\proyecto1\\proyecto1\\frmhorarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\frmhorarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmhorarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2482A5-FCFB-4CFF-9461-116A5FFA75EE}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\frmhorarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmInicio.cs",
+              "RelativeDocumentMoniker": "proyecto1\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmInicio.cs",
+              "RelativeToolTip": "proyecto1\\frmInicio.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwFYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:32:57.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHorarios.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmHorarios.cs",
+              "RelativeDocumentMoniker": "proyecto1\\frmHorarios.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmHorarios.cs",
+              "RelativeToolTip": "proyecto1\\frmHorarios.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAUwIwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:32:14.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHorarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmHorarios.cs",
+              "RelativeDocumentMoniker": "proyecto1\\frmHorarios.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmHorarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1\\frmHorarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:28:28.442Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmInicio.cs",
+              "RelativeDocumentMoniker": "proyecto1\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto1\\proyecto1\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:18:48.381Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

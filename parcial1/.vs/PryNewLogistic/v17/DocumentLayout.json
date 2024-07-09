@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmplanificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmplanificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|c:\\users\\joacc\\escritorio\\joaquin oiiva\\prynewlogistic\\prynewlogistic\\frmregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|c:\\users\\joacc\\escritorio\\joaquin oiiva\\prynewlogistic\\prynewlogistic\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmplanificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmplanificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\prynewlogistic\\frmentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7321880-D117-4AC7-A63E-D7F49DB68B6F}|PryNewLogistic\\PryNewLogistic.csproj|solutionrelative:prynewlogistic\\frmentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRegistro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmRegistro.Designer.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmRegistro.Designer.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmRegistro.Designer.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmRegistro.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:54:01.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmInicio.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmInicio.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmInicio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:31:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmRegistro.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmRegistro.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmRegistro.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmRegistro.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:34:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmVehiculo.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmVehiculo.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmVehiculo.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmVehiculo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:26:55.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPlanificar.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmPlanificar.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmPlanificar.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmPlanificar.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmPlanificar.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvx4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:24:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmParadas.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmParadas.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmParadas.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmParadas.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmParadas.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:41:36.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmEntregas.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmEntregas.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmEntregas.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmEntregas.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmEntregas.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAWwEoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:12:45.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAtencion.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmAtencion.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmAtencion.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmAtencion.cs",
+              "RelativeToolTip": "PryNewLogistic\\frmAtencion.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBUAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:09:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmInicio.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:31:17.222Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmRegistro.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmRegistro.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:24:30.321Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVehiculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmVehiculo.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmVehiculo.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmVehiculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmVehiculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:52:55.756Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPlanificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmPlanificar.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmPlanificar.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmPlanificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmPlanificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:19:34.051Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmParadas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmParadas.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmParadas.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmParadas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmParadas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:48:22.103Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEntregas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmEntregas.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmEntregas.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmEntregas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmEntregas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:19:01Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAtencion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmAtencion.cs",
+              "RelativeDocumentMoniker": "PryNewLogistic\\frmAtencion.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\Joaquin OIiva\\PryNewLogistic\\PryNewLogistic\\frmAtencion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryNewLogistic\\frmAtencion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:26:29.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
